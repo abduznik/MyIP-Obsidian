@@ -4,8 +4,7 @@
   "version": "0.1.0",
   "minAppVersion": "0.12.0",
   "description": "Creates a note with your IP and country info.",
-  "author": "Yan",
-  "authorUrl": "https://yourwebsite.com",
+  "author": "abduznik",
   "main": "main.js",
   "css": "styles.css"
 }

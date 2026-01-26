@@ -1,4 +1,5 @@
 import { Plugin, MarkdownView, Notice, request } from "obsidian";
+import type { MyIPResponse } from "./src/types";
 
 export default class MyIPPlugin extends Plugin {
   async onload() {
